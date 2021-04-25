@@ -1,3 +1,3 @@
-module github.com/shelton-hu/nb
+module github.com/shelton-hu/logger
 
 go 1.16
